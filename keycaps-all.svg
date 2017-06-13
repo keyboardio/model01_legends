@@ -39,13 +39,13 @@
      inkscape:window-height="1105"
      id="namedview5617"
      showgrid="false"
-     inkscape:zoom="0.50797818"
+     inkscape:zoom="1.2854299"
      inkscape:cx="758.26523"
-     inkscape:cy="1061.1859"
+     inkscape:cy="1652.6908"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer2"
      units="mm"
      inkscape:document-units="mm"
      showguides="false"
@@ -14759,7 +14759,7 @@
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="QWERTY"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
          id="g120372"
@@ -20760,7 +20760,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Colemak"
-       style="display:none">
+       style="display:inline">
       <g
          id="g68012"
          transform="matrix(1.3325056,0,0,1.3325056,-1318.0336,-1801.2418)"
@@ -20911,7 +20911,7 @@
              x="306.05954"
              y="1242.6195"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13618-2-67">T</tspan></text>
+             id="tspan13618-2-67">G</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -20948,7 +20948,7 @@
              x="306.07187"
              y="1242.6208"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-91-55">S</tspan></text>
+             id="tspan13622-91-55">R</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21128,7 +21128,7 @@
              x="306.05942"
              y="1242.6093"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-9-8">F</tspan></text>
+             id="tspan13622-9-8">T</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21165,7 +21165,7 @@
              x="306.06232"
              y="1242.6299"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan392612-9">E</tspan></text>
+             id="tspan392612-9">F</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21271,7 +21271,7 @@
              x="306.06302"
              y="1242.614"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-34-0">D</tspan></text>
+             id="tspan13622-34-0">S</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21488,7 +21488,7 @@
              x="306.06152"
              y="1242.6268"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan392640-1">G</tspan></text>
+             id="tspan392640-1">D</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21626,7 +21626,7 @@
              x="306.06799"
              y="1242.6218"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan392616-3">R</tspan></text>
+             id="tspan392616-3">P</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -21972,12 +21972,12 @@
              x="-339.37842"
              y="1222.2899"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13618-4-6-1">　 ]</tspan><tspan
+             id="tspan13618-4-6-1">:　 ]</tspan><tspan
              sodipodi:role="line"
              x="-339.37842"
              y="1242.5634"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan431709-9">P</tspan></text>
+             id="tspan431709-9">;</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22015,7 +22015,7 @@
              x="-339.25903"
              y="1242.542"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan431697-2">U</tspan></text>
+             id="tspan431697-2">L</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22129,7 +22129,7 @@
              x="-339.0274"
              y="1242.5918"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13618-99-8-7">I</tspan></text>
+             id="tspan13618-99-8-7">U</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22167,7 +22167,7 @@
              x="-339.54364"
              y="1242.5143"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13626-4-4-2">N</tspan></text>
+             id="tspan13626-4-4-2">K</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22207,7 +22207,7 @@
              x="-339.22824"
              y="1242.9333"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-34-4-5">K</tspan></text>
+             id="tspan13622-34-4-5">E</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22278,12 +22278,12 @@
              x="-339.57346"
              y="1222.3026"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-4-4-8">:</tspan><tspan
+             id="tspan13622-4-4-8" /><tspan
              sodipodi:role="line"
              x="-339.57346"
              y="1242.576"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan431741-1">;</tspan></text>
+             id="tspan431741-1">O</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22490,7 +22490,7 @@
              x="-339.09845"
              y="1242.4641"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13618-8-5-4">O</tspan></text>
+             id="tspan13618-8-5-4">Y</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22530,7 +22530,7 @@
              x="-339.2933"
              y="1242.8209"
              style="font-size:16.21875px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-91-5-9">L</tspan></text>
+             id="tspan13622-91-5-9">I</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22646,7 +22646,7 @@
              x="-339.13602"
              y="1242.55"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13618-2-6-5">Y</tspan></text>
+             id="tspan13618-2-6-5">J</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -22724,7 +22724,7 @@
              x="-339.4498"
              y="1242.9608"
              style="font-size:16.21874809px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:1px"
-             id="tspan13622-9-6-0">J</tspan></text>
+             id="tspan13622-9-6-0">N</tspan></text>
       </g>
       <g
          transform="matrix(-0.23994779,-1.0393281,1.0393281,-0.23994779,-215.31795,1128.9619)"
